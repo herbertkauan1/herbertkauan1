@@ -1,7 +1,7 @@
 ## Saaalve! Me chamo Herbert! :p
 
 - 🎓 Análise e Desenvolvimento de Sistemas - IFPE
-- 🐍 Aprendendo Python
+- 🐍 Python
 - 🎮 Amante dos Games!
 
 
