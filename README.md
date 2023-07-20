@@ -1,7 +1,7 @@
-## Saaalve! Me chamo Herbert! :p
+## Saaalve! 
 
 - 🎓 Análise e Desenvolvimento de Sistemas - IFPE
-- Python, Java, HTML, CSS, Javascprit.
-- 🎮 Amante dos Games!
+- 🐍 Python automation
+
 
 
